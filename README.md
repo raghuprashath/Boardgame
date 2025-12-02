@@ -54,3 +54,5 @@ This web application displays lists of board games and their reviews. While anyo
 
 
 Trying with github webhook trigger in e31 batch
+
+Yes
